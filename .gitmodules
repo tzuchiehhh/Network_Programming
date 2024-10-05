@@ -4,3 +4,6 @@
 [submodule "np_project2"]
 	path = np_project2
 	url = https://github.com/tzuchiehhh/np_project2.git
+[submodule "np_project3"]
+	path = np_project3
+	url = https://github.com/tzuchiehhh/np_project3.git
